@@ -74,7 +74,7 @@ export default function Home() {
             Productos importados
           </p>
 
-          <h1 className="text-5xl font-bold tracking-tight text-white md:text-7xl">
+          <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl md:text-7xl">
             Dreams Imported
           </h1>
 
@@ -82,7 +82,7 @@ export default function Home() {
             Fragancias importadas y productos de belleza seleccionados.
           </p>
 
-          <div className="mt-9 flex flex-col items-center justify-center gap-4 sm:flex-row">
+          <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Link
               href="/catalogo"
               className="rounded-full bg-[#4e4fa8] px-8 py-4 font-semibold text-white transition hover:bg-[#3b3c87]"

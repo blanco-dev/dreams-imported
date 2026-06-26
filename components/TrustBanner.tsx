@@ -7,8 +7,8 @@ const items = [
 
 export default function TrustBanner() {
   return (
-    <section className="border-y border-black/10 bg-white">
-      <div className="mx-auto grid max-w-7xl gap-4 px-6 py-6 md:grid-cols-4">
+    <section className="border-y border-black/10 bg-white py-6 md:py-0">
+      <div className="mx-auto grid max-w-7xl gap-5 px-6 py-4 md:grid-cols-4 md:py-6">
         {items.map((item) => (
           <div
             key={item}
