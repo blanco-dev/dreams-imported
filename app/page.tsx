@@ -6,6 +6,7 @@ import TrustBanner from "@/components/TrustBanner";
 import Brands from "@/components/Brands";
 import WppButton from "@/components/WppButton";
 import VideoShowcase from "@/components/VideoShowcase";
+import InstagramButton from "@/components/InstagramButton";
 
 
 export default function Home() {
@@ -104,6 +105,7 @@ export default function Home() {
       <VideoShowcase />
       <Brands />
       <Footer />
+      <InstagramButton />
       <WppButton/>
     </main>
   );
