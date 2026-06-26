@@ -11,7 +11,7 @@ export default function Brands() {
   return (
     <section className="bg-[#f7f3eb] px-6 py-16">
       <div className="mx-auto max-w-7xl">
-        <p className="text-center text-base font-bold tracking-[0.25em] sm:text-lg md:text-xl">
+        <p className="mb-8 text-center text-base font-bold tracking-[0.25em] sm:text-lg md:text-xl">
           Marcas destacadas
         </p>
 
