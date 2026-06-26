@@ -67,7 +67,7 @@ Otoño, invierno y noches especiales donde quieras destacar con una fragancia di
   slug: "armaf-mandarin",
   name: "Armaf Mandarin Sky",
   category: "fragancias",
-  price: 105000,
+  price: 90000,
   image: "/products/armaf-mandarin.jpg",
   description: `🔥 Armaf Mandarin Sky — Frescura cítrica con un giro luminoso y ligero toque oriental ☀️🍊
 
@@ -426,7 +426,7 @@ Pensado para la noche, cenas especiales o salidas en climas frescos. Excelente p
   slug: "lattafa-gourmand",
   name: "Lataffa Give Gourmand  (Linea Completa)",
   category: "fragancias",
-  price: 110000,
+  price: 90000,
   image: "/products/lattafa-gourmand.jpg",
   description: `Fragancias: 
   
