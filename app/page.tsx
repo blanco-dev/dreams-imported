@@ -59,7 +59,7 @@ export default function Home() {
 />
 <div className="absolute inset-0 bg-black/30" />
 
-            <div className="relative z-10 mx-auto max-w-4xl px-6 pt-10 text-center">
+            <div className="relative z-10 mx-auto max-w-4xl px-6 pt-10 pb-16 md:pb-10 text-center">
             <div className="mb-8 flex justify-center">
             <Image
               src="/logo.jpg"
@@ -82,7 +82,7 @@ export default function Home() {
             Fragancias importadas y productos de belleza seleccionados.
           </p>
 
-          <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
+          <div className="mt-8 mb-12 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Link
               href="/catalogo"
               className="rounded-full bg-[#4e4fa8] px-8 py-4 font-semibold text-white transition hover:bg-[#3b3c87]"
