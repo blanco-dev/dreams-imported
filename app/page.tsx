@@ -49,7 +49,7 @@ export default function Home() {
         </div>
       </header>
 
-<section className="relative flex min-h-[70vh] items-center justify-center overflow-hidden bg-black">
+<section className="relative mb-8 flex min-h-[70vh] items-center justify-center overflow-hidden bg-black md:mb-0">
 <Image
   src="/products/fotoPrincipal.png"
   alt="Perfumes importados"
