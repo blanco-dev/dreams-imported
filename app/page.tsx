@@ -51,30 +51,23 @@ export default function Home() {
 
 <section className="relative mb-8 flex min-h-[70vh] items-center justify-center overflow-hidden bg-black md:mb-0">
 <Image
-  src="/products/fotoPrincipal.png"
+  src="/products/fotoHorizontal.png"
   alt="Perfumes importados"
   fill
   priority
-  className="absolute inset-0 object-cover"
+  className="absolute inset-0 object-cover object-[center_60%]"
 />
-<div className="absolute inset-0 bg-black/30" />
+<div className="absolute inset-0 bg-black/45" />
 
-            <div className="relative z-10 mx-auto max-w-4xl px-6 pt-10 pb-16 md:pb-10 text-center">
+            <div className="relative z-10 mx-auto max-w-4xl px-6 pt-28 text-center">
             <div className="mb-8 flex justify-center">
-            <Image
-              src="/logo.jpg"
-              alt="Dreams Imported"
-              width={140}
-              height={140}
-              priority
-              className="rounded-full shadow-2xl"
-            />
+
           </div>
           <p className="mb-5 text-sm font-semibold uppercase tracking-[0.35em] text-white/80">
             Productos importados
           </p>
 
-          <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl md:text-7xl">
+          <h1 className="text-5xl font-bold tracking-tight text-white sm:text-6xl md:text-8xl">
             Dreams Imported
           </h1>
 
