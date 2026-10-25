@@ -6,6 +6,7 @@ const videos = [
   "/video/perfume-1.mp4",
   "/video/perfume-2.mp4",
   "/video/perfume-3.mp4",
+  "/video/perfume-4.mp4",
 ];
 
 export default function VideoShowcase() {

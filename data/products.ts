@@ -4,7 +4,7 @@ export const products = [
     slug: "lattafa-yara",
     name: "Lattafa Yara",
     category: "fragancias",
-    price: 80000,
+    price: 86300,
     image: "/products/lattafa-yara.jpg",
     description: `🌸 Lataffa Yara
 
@@ -20,7 +20,7 @@ Lataffa Yara es una fragancia dulce y floral que envuelve con su encanto frutal 
     slug: "lattafa-honor",
     name: "Lattafa Honor",
     category: "fragancias",
-    price: 95000,
+    price: 68000,
     image: "/products/lattafa-honor.jpg",
     description: `👑 Lattafa Honor & Glory 👑
 
@@ -44,7 +44,7 @@ Otoño, invierno y noches especiales donde quieras destacar con una fragancia di
     slug: "lattafa-nebras",
     name: "Lattafa Nebras",
     category: "fragancias",
-    price: 110000,
+    price: 99600,
     image: "/products/lattafa-nebras.jpg",
     description: `🍦 Lattafa Nebras 🍦
 
@@ -67,7 +67,7 @@ Otoño, invierno y noches especiales donde quieras destacar con una fragancia di
   slug: "armaf-mandarin",
   name: "Armaf Mandarin Sky",
   category: "fragancias",
-  price: 90000,
+  price: 78000,
   image: "/products/armaf-mandarin.jpg",
   description: `🔥 Armaf Mandarin Sky — Frescura cítrica con un giro luminoso y ligero toque oriental ☀️🍊
 
@@ -86,7 +86,7 @@ Perfecto para primavera/verano, reuniones informales y looks de día con un aire
   slug: "bharara-rose",
   name: "Bharara Rose",
   category: "fragancias",
-  price: 155000,
+  price: 137500,
   image: "/products/bharara-rose.jpg",
   description: `🌹 Bharara Rose 🌹
 
@@ -117,7 +117,7 @@ Bharara Rose combina acordes florales refinados con notas suaves y envolventes, 
   slug: "club-oud",
   name: "Club de Nuit Oud",
   category: "fragancias",
-  price: 130000,
+  price: 137700,
   image: "/products/club-oud.jpg",
   description: `🔥 Club de Nuit Oud — Intensidad oriental con presencia icónica 🕌🖤
 
@@ -136,7 +136,7 @@ Ideal para eventos nocturnos, cenas formales y climas frescos. Funciona bien con
   slug: "club-precious",
   name: "Club de Nuit Precieux",
   category: "fragancias",
-  price: 160000,
+  price: 154000,
   image: "/products/club-precious.jpg",
   description: `🔥 Armaf Club de Nuit Precieux — Elegancia clásica con un giro moderno y luminoso 💎✨
 
@@ -155,7 +155,7 @@ Ideal para uso diario en oficina, citas casuales y eventos de día. Funciona bie
   slug: "club-private-key",
   name: "Club de Nuit Private Key",
   category: "fragancias",
-  price: 125000,
+  price: 115000,
   image: "/products/club-private-key.jpg",
   description: `🔥 Private Key to My Love — Misterio y seducción en un secreto fragante 🗝️❤️
 
@@ -174,7 +174,7 @@ Perfecto para noches formales, after-work elegantes y salidas en clima fresco. D
   slug: "club-woman",
   name: "Club de Nuit Woman",
   category: "fragancias",
-  price: 110000,
+  price: 94600,
   image: "/products/club-woman.jpg",
   description: `🔥 Armaf Club de Nuit Woman — Elegancia audaz con un toque moderno 🌟💎
 
@@ -193,7 +193,7 @@ Perfecto para reuniones de trabajo, almuerzos y salidas nocturnas en climas temp
   slug: "haramain-amberoud",
   name: "Al Haramain Amber Oud Aqua Dubai",
   category: "fragancias",
-  price: 150000,
+  price: 136000,
   image: "/products/haramain-amberoud.png",
   description: `✨ Al Haramain Amber Oud Aqua Dubai ✨
 
@@ -224,7 +224,7 @@ Amber Oud Aqua Dubai combina notas vibrantes y refrescantes con un fondo elegant
   slug: "haramain-dubai",
   name: "Al Haramain Amber Oud Dubai Night ",
   category: "fragancias",
-  price: 155000,
+  price: 140000,
   image: "/products/haramain-dubai.jpg",
   description: `🔥 Al Haramain Dubai Night — Seducción nocturna con carácter 💫🌙
 
@@ -262,7 +262,7 @@ Ideal para noches formales, cenas y eventos de invierno. Funciona bien en interi
   slug: "khamrah-dukhan",
   name: "Khamrah Dukhan",
   category: "fragancias",
-  price: 98000,
+  price: 69700,
   image: "/products/khamrah-dukhan.jpg",
   description: `🔥 Khamrah Dukhan — La esencia del misterio y la elegancia en un solo perfume 🌌✨
 
@@ -281,7 +281,7 @@ Perfecto para noches especiales, eventos formales o momentos en los que quieres 
   slug: "lattafa-amethyst",
   name: "Lattafa Amethyst",
   category: "fragancias",
-  price: 95000,
+  price: 61500,
   image: "/products/lattafa-amethyst.jpg",
   description: `💜 Lattafa Amethyst 💜
 
@@ -304,7 +304,7 @@ Todo el año, especialmente en temporadas frescas y eventos nocturnos.
   slug: "lattafa-asad-bourbon",
   name: "Lattafa Asad Bourbon",
   category: "fragancias",
-  price: 90000,
+  price: 107900,
   image: "/products/lattafa-asad-bourbon.jpg",
   description: `🔥 Lataffa ASAD Bourbon — La calidez elegante que transforma cualquier ambiente en un encuentro inolvidable 🌟🕯️
 
@@ -323,7 +323,7 @@ Ideal para cenas formales, eventos nocturnos y días de clima frío o con ilumin
   slug: "lattafa-atheeri",
   name: "Lattafa Atheeri",
   category: "fragancias",
-  price: 110000,
+  price: 151000,
   image: "/products/lattafa-atheeri.jpg",
   description: `🤍 Lattafa Atheeri 🤍
 
@@ -346,7 +346,7 @@ Primavera, verano y uso diario. Perfecta para el trabajo, reuniones o momentos d
   slug: "lattafa-confession",
   name: "Lattafa Her Confession",
   category: "fragancias",
-  price: 105000,
+  price: 115000,
   image: "/products/lattafa-confession.jpg",
   description: `💖 Lataffa Her Confession
 
@@ -362,7 +362,7 @@ Her Confession es una fragancia soñadora, suave y seductora que combina especia
   slug: "lattafa-eclaire-fm",
   name: "Lattafa Eclaire Femenino",
   category: "fragancias",
-  price: 90000,
+  price: 120000,
   image: "/products/lattafa-eclaire-fm.jpg",
   description: `✨ Lattafa Eclaire Femenino ✨
 
@@ -384,7 +384,7 @@ Otoño e invierno, noches especiales, salidas románticas o eventos donde quiera
   slug: "lattafa-eclaire-mc",
   name: "Lattafa Eclaire Masculino",
   category: "fragancias",
-  price: 90000,
+  price: 114500,
   image: "/products/lattafa-eclaire-mc.jpg",
   description: `🔥 Lattafa Eclaire Masculino 🔥
 
@@ -407,7 +407,7 @@ Otoño e invierno, reuniones, citas o eventos nocturnos donde la elegancia sea p
   slug: "lattafa-elixir",
   name: "Lattafa Asad Elixir",
   category: "fragancias",
-  price: 100000,
+  price: 98000,
   image: "/products/lattafa-elixir.jpg",
   description: `🔥 ASAD Elixir — Intensidad envolvente con un toque de misterio y seducción 🌒✨
 
@@ -426,7 +426,7 @@ Pensado para la noche, cenas especiales o salidas en climas frescos. Excelente p
   slug: "lattafa-gourmand",
   name: "Lataffa Give Gourmand  (Linea Completa)",
   category: "fragancias",
-  price: 90000,
+  price: 103000,
   image: "/products/lattafa-gourmand.jpg",
   description: `Fragancias: 
   
@@ -489,7 +489,7 @@ Fondo: Benjuí y maderas oscuras que le dan un toque misterioso y duradero. 🌲
   slug: "lattafa-kingdom",
   name: "Lattafa Kingdom",
   category: "fragancias",
-  price: 110000,
+  price: 83000,
   image: "/products/lattafa-kingdom.jpg",
   description: `🔥 Lattafa The Kingdom for Him — El aroma que define al hombre seguro y elegante 👑✨
 
@@ -508,7 +508,7 @@ Perfecto para cualquier ocasión donde quieras destacar: desde una reunión impo
   slug: "lattafa-sublime",
   name: "Lattafa Sublime",
   category: "fragancias",
-  price: 95000,
+  price: 81400,
   image: "/products/lattafa-sublime.jpg",
   description: `🍏 Lattafa Sublime 🍏
 
@@ -531,7 +531,7 @@ Primavera y verano, uso diario, oficina o encuentros casuales.
   slug: "lattafa-yaramoi",
   name: "Lattafa Yara Moi",
   category: "fragancias",
-  price: 80000,
+  price: 71380,
   image: "/products/lattafa-yaramoi.jpg",
   description: `🌼 Lataffa Yara Moi
 
@@ -546,7 +546,7 @@ Yara Moi es una fragancia floral-frutal con un toque ambarino que combina frescu
   slug: "versace-fraiche",
   name: "Versace Man Eau Fraiche",
   category: "fragancias",
-  price: 240000,
+  price: 220800,
   image: "/products/versace-fraiche.jpg",
   description: `🔥 Versace Man Eau Fraiche — Frescura cítrica con vibra deportiva 💧🌟
 
@@ -566,7 +566,7 @@ Fragrancia fresca, deportiva y sofisticada a la vez; transmite confianza sin ser
   slug: "victorias-secret-shimmer",
   name: "Victoria's Secret Body Splash",
   category: "belleza",
-  price: 55000,
+  price: 53200,
   image: "/products/body-splash.jpg",
   description: `🌟Victoria's Secret Body Splash 🌟
   
@@ -589,7 +589,7 @@ Fragrancia fresca, deportiva y sofisticada a la vez; transmite confianza sin ser
   slug: "victorias-secret-body-lotions",
   name: "Victoria's Secret Lociones",
   category: "belleza",
-  price: 55000,
+  price: 56500,
   image: "/products/cremas.jpg",
   description: `✨ Victoria's Secret Lociones ✨
 
@@ -618,7 +618,7 @@ Fragrancia fresca, deportiva y sofisticada a la vez; transmite confianza sin ser
   slug: "lattafa-abaan",
   name: "Lattafa Abaan",
   category: "fragancias",
-  price: 60000,
+  price: 80000,
   image: "/products/lattafa-abaan.jpg",
   description: `✨ Lattafa Abaan ✨
 
@@ -662,7 +662,7 @@ Combina fuerza, elegancia y carácter en un aroma ideal para hombres que buscan 
   slug: "versace-eros-energy",
   name: "Versace Eros Energy",
   category: "fragancias",
-  price: 235000,
+  price: 240000,
   image: "/products/versace-eros-energy.jpg",
   description: `⚡ Versace Eros Energy ⚡
 
@@ -785,7 +785,7 @@ Ideal para quienes buscan un perfume versátil, liviano y sofisticado para todos
   slug: "ameerati",
   name: "Al Wataniah Ameerati",
   category: "fragancias",
-  price: 50000,
+  price: 59800,
   image: "/products/ameerati.jpg",
   description: `👑 Ameerati 👑
 
@@ -810,7 +810,7 @@ Su presentación dorada transmite lujo y sofisticación, ideal para quienes busc
   slug: "fikrah",
   name: "Al Wataniah Fikrah",
   category: "fragancias",
-  price: 50000,
+  price: 65000,
   image: "/products/fikrah.jpg",
   description: `💙 Fikrah 💙
 
@@ -835,7 +835,7 @@ Su presentación azul y dorada transmite lujo, profundidad y carácter.
   slug: "lattafa-yara-elixir",
   name: "Lattafa Yara Elixir",
   category: "fragancias",
-  price: 100000,
+  price: 81340,
   image: "/products/lattafa-yara-elixir.jpg",
   description: `🌸 Lattafa Yara Elixir 🌸
 
@@ -852,6 +852,513 @@ Ideal para quienes buscan mantenerse perfumados durante todo el día con un arom
 
 📦 Eau de Parfum.
 📩 Consultanos por disponibilidad y stock.`,
+},
+
+{
+  id: 39,
+  slug: "afnan-9am",
+  name: "Afnan 9AM Pour Femme",
+  category: "fragancias",
+  price: 89700,
+  image: "/products/afnan-9am.jpg",
+  description: `🌸 Afnan 9AM Pour Femme 🌸
+
+Ideal para quienes buscan un aroma femenino, fresco y dulce, con un toque elegante y moderno para acompañarlas durante el día.
+
+✨ Perfil aromático:
+• Frutal.
+• Floral.
+• Dulce.
+• Fresco.
+
+💖 Perfecto para usar a diario, ir al trabajo, salir o disfrutar de cualquier ocasión en la que quieras destacar con una fragancia delicada y sofisticada.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+},
+
+{
+  id: 40,
+  slug: "lattafa-habik",
+  name: "Lattafa Habik",
+  category: "fragancias",
+  price: 68000,
+  image: "/products/lattafa-habik.jpg",
+  description: `🌸 Lattafa Habik 🌸
+
+Ideal para quienes buscan una fragancia moderna, envolvente y con personalidad, perfecta para destacar con un aroma único y sofisticado.
+
+✨ Perfil aromático:
+• Fresco.
+• Dulce.
+• Aromático.
+• Elegante.
+
+💖 Perfecto para usar a diario o en ocasiones especiales, dejando una sensación agradable y distintiva que complementa cualquier estilo.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+},
+
+{
+  id: 41,
+  slug: "rasasi-hawas",
+  name: "Rasasi Hawas Pink",
+  category: "fragancias",
+  price: 103000,
+  image: "/products/rasasi-hawas.jpg",
+  description: `🌸 Rasasi Hawas Pink 🌸
+
+Ideal para quienes buscan una fragancia femenina, dulce y vibrante, con un aroma frutal y floral que transmite frescura y sensualidad.
+
+✨ Perfil aromático:
+• Frutal.
+• Floral.
+• Dulce.
+• Sensual.
+
+💖 Perfecto para usar a diario, disfrutar de una salida o acompañarte en ocasiones especiales con un aroma moderno, femenino y cautivador.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+
+{
+  id: 42,
+  slug: "emper-stallion",
+  name: "Emper Stallion 53",
+  category: "fragancias",
+  price: 71400,
+  image: "/products/emper-stallion.jpg",
+  description: `🐎 Emper Stallion 53 🐎
+
+Ideal para quienes buscan una fragancia masculina, intensa y sofisticada, con un aroma distintivo que transmite seguridad, carácter y elegancia.
+
+✨ Perfil aromático:
+• Amaderado.
+• Aromático.
+• Especiado.
+• Intenso.
+
+💖 Perfecto para usar en salidas, ocasiones especiales o cuando quieras destacar con una fragancia elegante y con personalidad.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 43,
+  slug: "lataffa-yara-tous",
+  name: "Lataffa Yara Tous",
+  category: "fragancias",
+  price: 66400,
+  image: "/products/lataffa-yara-tous.jpg",
+  description: `🌴 Lattafa Yara Tous 🌴
+
+Ideal para quienes buscan una fragancia tropical, dulce y femenina, con un aroma exótico que transmite alegría, frescura y sensualidad.
+
+✨ Perfil aromático:
+• Frutal.
+• Tropical.
+• Dulce.
+• Cremoso.
+
+💖 Perfecto para usar a diario, disfrutar de los días cálidos o acompañar tus salidas con un aroma tropical y envolvente que no pasa desapercibido.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 44,
+  slug: "lataffa-yara-candy",
+  name: "Lataffa Yara Candy",
+  category: "fragancias",
+  price: 86400,
+  image: "/products/lataffa-yara-candy.jpg",
+  description: `🍬 Lattafa Yara Candy 🍬
+
+Ideal para quienes buscan una fragancia dulce, divertida y femenina, con un aroma frutal y goloso que transmite alegría y delicadeza.
+
+✨ Perfil aromático:
+• Dulce.
+• Frutal.
+• Floral.
+• Goloso.
+
+💖 Perfecto para usar a diario, salir con amigas o disfrutar de cualquier ocasión en la que quieras destacar con un aroma dulce, juvenil y encantador.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 45,
+  slug: "dumont-nitro",
+  name: "Dumont Nitro Red Pour Homme",
+  category: "fragancias",
+  price: 96300,
+  image: "/products/dumont-nitro.jpg",
+  description: `🔥 Dumont Nitro Red Pour Homme 🔥
+
+Ideal para quienes buscan una fragancia masculina, intensa y vibrante, con un aroma frutal y dulce que transmite energía, frescura y personalidad.
+
+✨ Perfil aromático:
+• Frutal.
+• Dulce.
+• Fresco.
+• Amaderado.
+
+💖 Perfecto para usar a diario, salir con amigos o disfrutar de ocasiones especiales con un aroma moderno, llamativo y lleno de carácter.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 46,
+  slug: "rasasi-hawas-diva",
+  name: "Rasasi Hawas Diva",
+  category: "fragancias",
+  price: 112900,
+  image: "/products/rasasi-hawas-diva.jpg",
+  description: `💖 Rasasi Hawas Diva 💖
+
+Ideal para quienes buscan una fragancia femenina, elegante y sofisticada, con un aroma envolvente que combina dulzura y sensualidad para destacar en cualquier ocasión.
+
+✨ Perfil aromático:
+• Dulce.
+• Floral.
+• Frutal.
+• Sensual.
+
+💖 Perfecto para usar a diario o en ocasiones especiales, ideal para quienes quieren dejar una impresión memorable con un aroma femenino y cautivador.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 47,
+  slug: "afnan-supremacy",
+  name: "Afnan SUPREMACY Collectors Edition",
+  category: "fragancias",
+  price: 184300,
+  image: "/products/afnan-supremacy.jpg",
+  description: `👑 Afnan Supremacy Collector's Edition 👑
+
+Ideal para quienes buscan una fragancia masculina, sofisticada e intensa, con un aroma frutal y amaderado que transmite elegancia, carácter y distinción.
+
+✨ Perfil aromático:
+• Frutal.
+• Amaderado.
+• Ahumado.
+• Especiado.
+
+💖 Perfecto para usar en salidas, eventos especiales o durante la noche, ideal para quienes buscan destacar con una fragancia moderna, elegante y con gran presencia.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 48,
+  slug: "maison-alhambra-olivia",
+  name: "Maison Alhambra Olivia",
+  category: "fragancias",
+  price: 2,
+  image: "/products/maison-alhambra-olivia.jpg",
+  description: `🌸 Maison Alhambra Olivia 🌸
+
+Ideal para quienes buscan una fragancia femenina, delicada y elegante, con un aroma encantador que transmite frescura, dulzura y sofisticación.
+
+✨ Perfil aromático:
+• Floral.
+• Dulce.
+• Fresco.
+• Elegante.
+
+💖 Perfecto para usar a diario, ir al trabajo o disfrutar de una salida, ideal para quienes prefieren un aroma femenino y versátil que acompañe cada momento.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 49,
+  slug: "lataffa-khamrah-qahwa",
+  name: "Lataffa Khamrah Qahwa",
+  category: "fragancias",
+  price: 69800,
+  image: "/products/lataffa-khamrah-qahwa.jpg",
+  description: `☕ Lattafa Khamrah Qahwa ☕
+
+Ideal para quienes buscan una fragancia intensa, cálida y envolvente, con un aroma dulce y especiado que combina notas gourmand con un irresistible toque de café.
+
+✨ Perfil aromático:
+• Dulce.
+• Especiado.
+• Avainillado.
+• Cafetero.
+
+💖 Perfecto para usar durante la noche, en días frescos o en ocasiones especiales, ideal para quienes quieren destacar con un aroma sofisticado, cálido y duradero.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+
+{
+  id: 50,
+  slug: "lataffa-angham",
+  name: "Lataffa Angham",
+  category: "fragancias",
+  price: 74700,
+  image: "/products/lattaffa-angham.jpg",
+  description: `🎶 Lattafa Angham 🎶
+
+Ideal para quienes buscan una fragancia dulce, elegante y envolvente, con un aroma gourmand que combina calidez y sofisticación para crear una esencia irresistible.
+
+✨ Perfil aromático:
+• Dulce.
+• Avainillado.
+• Especiado.
+• Cremoso.
+
+💖 Perfecto para usar a diario o en ocasiones especiales, ideal para quienes disfrutan de los aromas cálidos, modernos y sofisticados que dejan una impresión memorable.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 51,
+  slug: "carolina-bomba",
+  name: "Carolina Herrera La bomba",
+  category: "fragancias",
+  price: 325400,
+  image: "/products/carolina-bomba.jpg",
+  description: `💖 Carolina Herrera La Bomba 💖
+
+Ideal para quienes buscan una fragancia femenina, intensa y exuberante, con un aroma frutal y floral que transmite sensualidad, alegría y una personalidad arrolladora.
+
+✨ Perfil aromático:
+• Frutal.
+• Floral.
+• Dulce.
+• Exótico.
+
+💖 Perfecto para usar en salidas, eventos especiales o cuando quieras destacar con un aroma llamativo, femenino y lleno de energía.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 52,
+  slug: "valentino-uomo-dona",
+  name: "Valentino Uomo Dona Femme",
+  category: "fragancias",
+  price: 391800,
+  image: "/products/valentino-uomo-dona.jpg",
+  description: `🌸 Valentino Uomo Donna Femme 🌸
+
+Ideal para quienes buscan una fragancia femenina, elegante y sofisticada, con un aroma delicado y envolvente que transmite sensualidad y distinción.
+
+✨ Perfil aromático:
+• Floral.
+• Dulce.
+• Amaderado.
+• Sofisticado.
+
+💖 Perfecto para usar a diario o en ocasiones especiales, ideal para quienes desean destacar con un aroma femenino, refinado y con mucha personalidad.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+
+{
+  id: 53,
+  slug: "valentino-uomo",
+  name: "Valentino Uomo",
+  category: "fragancias",
+  price: 391800,
+  image: "/products/valentino-uomo.jpg",
+  description: `🖤 Valentino Uomo 🖤
+
+Ideal para quienes buscan una fragancia masculina, elegante y sofisticada, con un aroma cálido y envolvente que transmite distinción, seguridad y personalidad.
+
+✨ Perfil aromático:
+• Amaderado.
+• Avainillado.
+• Aromático.
+• Cálido.
+
+💖 Perfecto para usar en salidas, ocasiones especiales o durante la noche, ideal para quienes buscan un aroma refinado, seductor y con un toque clásico que nunca pasa de moda.
+
+📦 Eau de Toilette.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 54,
+  slug: "calvin-one",
+  name: "Calvin Klein One",
+  category: "fragancias",
+  price: 104600,
+  image: "/products/calvin-one.jpg",
+  description: `🍋 Calvin Klein CK One 🍋
+
+Ideal para quienes buscan una fragancia fresca, ligera y versátil, con un aroma cítrico y limpio que transmite juventud, libertad y naturalidad.
+
+✨ Perfil aromático:
+• Cítrico.
+• Fresco.
+• Aromático.
+• Amaderado.
+
+💖 Perfecto para usar a diario, después del baño o en días cálidos, ideal para quienes prefieren un aroma unisex, limpio y refrescante que combina con cualquier ocasión.
+
+📦 Eau de Toilette.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+
+{
+  id: 55,
+  slug: "miss-dior",
+  name: "Miss Dior",
+  category: "fragancias",
+  price: 104600,
+  image: "/products/miss-dior.jpg",
+  description: `🌸 Miss Dior 🌸
+
+Ideal para quienes buscan una fragancia femenina, romántica y sofisticada, con un aroma floral y elegante que transmite delicadeza, frescura y encanto.
+
+✨ Perfil aromático:
+• Floral.
+• Frutal.
+• Dulce.
+• Elegante.
+
+💖 Perfecto para usar a diario, en citas románticas o en ocasiones especiales, ideal para quienes desean destacar con un aroma femenino, refinado y cautivador.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 56,
+  slug: "9pm-femme",
+  name: "9pm Femme",
+  category: "fragancias",
+  price: 88000,
+  image: "/products/9pm-femme.jpg",
+  description: `🌸 Afnan 9PM Pour Femme 🌸
+
+Ideal para quienes buscan una fragancia femenina, dulce y seductora, con un aroma moderno y envolvente que transmite elegancia y personalidad.
+
+✨ Perfil aromático:
+• Dulce.
+• Floral.
+• Frutal.
+• Avainillado.
+
+💖 Perfecto para usar durante la noche, en citas o en ocasiones especiales, ideal para quienes quieren destacar con un aroma femenino, sofisticado y cautivador.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 57,
+  slug: "lattafa-teriaq",
+  name: "Lataffa Teriaq Intense",
+  category: "fragancias",
+  price: 88000,
+  image: "/products/lattafa-teriaq.jpg",
+  description: `🌸 Afnan 9PM Pour Femme 🌸
+
+Ideal para quienes buscan una fragancia femenina, dulce y seductora, con un aroma moderno y envolvente que transmite elegancia y personalidad.
+
+✨ Perfil aromático:
+• Dulce.
+• Floral.
+• Frutal.
+• Avainillado.
+
+💖 Perfecto para usar durante la noche, en citas o en ocasiones especiales, ideal para quienes quieren destacar con un aroma femenino, sofisticado y cautivador.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+
+{
+  id: 58,
+  slug: "armaf-club-nuit",
+  name: "Armaf Club De Nuit Man",
+  category: "fragancias",
+  price: 91300,
+  image: "/products/armaf-club-nuit.jpg",
+  description: `🖤 Armaf Club De Nuit Man 🖤
+
+Ideal para quienes buscan una fragancia masculina, fresca y sofisticada, con un aroma elegante y versátil que transmite seguridad, carácter y distinción.
+
+✨ Perfil aromático:
+• Cítrico.
+• Fresco.
+• Amaderado.
+• Especiado.
+
+💖 Perfecto para usar a diario, en el trabajo o en ocasiones especiales, ideal para quienes buscan un aroma masculino, moderno y elegante que destaque en cualquier momento.
+
+📦 Eau de Toilette.
+📩 Consultanos por disponibilidad y stock.`,
+
+},
+
+{
+  id: 59,
+  slug: "lataffa-khamrah-qahwa",
+  name: "Lataffa Khamrah Qawah",
+  category: "fragancias",
+  price: 69800,
+  image: "/products/lataffa-khamrah-qahwa.jpg",
+  description: `☕ Lattafa Khamrah Qahwa ☕
+
+Ideal para quienes buscan una fragancia intensa, dulce y envolvente, con una combinación irresistible de especias cálidas, notas gourmand y un delicioso toque de café.
+
+✨ Perfil aromático:
+• Dulce.
+• Especiado.
+• Cafetero.
+• Avainillado.
+
+💖 Perfecto para usar durante la noche, en días frescos o en ocasiones especiales, ideal para quienes disfrutan de aromas cálidos, sofisticados y con mucha personalidad.
+
+📦 Eau de Parfum.
+📩 Consultanos por disponibilidad y stock.`,
+
 },
 
 ];
