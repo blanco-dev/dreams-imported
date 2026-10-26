@@ -1196,7 +1196,7 @@ Ideal para quienes buscan una fragancia femenina, elegante y sofisticada, con un
   slug: "valentino-uomo",
   name: "Valentino Uomo",
   category: "fragancias",
-  price: 391800,
+  price: 280000,
   image: "/products/valentino-uomo.jpg",
   description: `🖤 Valentino Uomo 🖤
 
@@ -1245,7 +1245,7 @@ Ideal para quienes buscan una fragancia fresca, ligera y versátil, con un aroma
   slug: "miss-dior",
   name: "Miss Dior",
   category: "fragancias",
-  price: 104600,
+  price: 285000,
   image: "/products/miss-dior.jpg",
   description: `🌸 Miss Dior 🌸
 
